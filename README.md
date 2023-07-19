@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Jake
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minh-DN)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Minh-DN/Minh-DN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
